@@ -1,0 +1,13 @@
+
+p {
+    font: 18px/30px Arial, sans-serif; color: brown;
+}
+li{
+    font: 18px Arial; color: blueviolet;
+}
+.navbar-nav li a:hover, .navbar-nav > .active > a {
+    color: #fff !important;
+
+    background-color:#f4511e !important;
+    background-image: none !important;
+}

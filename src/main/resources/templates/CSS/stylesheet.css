@@ -1,0 +1,20 @@
+/*body {background-image: linear-gradient(to top, #ebc0fd 0%, #d9ded8 100%);}*/
+
+body {
+    margin: 0;
+    background: url(http://www.foodwise.com.au/wp-content/uploads/2012/10/ChoppingBoard2.gif);
+    background-size: 1440px 800px;
+    background-repeat:no-repeat:compact;
+    font: 20px  Arial, sans-serif; color: blue;
+}
+a{
+    font: italic bold 18px/18px Georgia, sans-serif, color black;
+}
+a:visited
+{
+    text-decoration: none;
+    decoration: none;
+}
+footer{
+    text-align: center;
+}
