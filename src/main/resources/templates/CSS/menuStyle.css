@@ -19,12 +19,14 @@ li{
     background-color: palegoldenrod;
 }
 
-p, h1{
-    text-align: center;
-}
 
 h1{
     font-size: 48px;
     font-style: oblique;
     font-family:'Allan';
+    text-align: center;
+}
+p, span{
+    text-align: center;
+
 }
