@@ -1,6 +1,9 @@
 
 p {
     font: 18px/30px Arial, sans-serif; color: brown;
+
+    text-align: left;
+
 }
 li{
     font: 18px Arial; color: blueviolet;
@@ -10,4 +13,18 @@ li{
 
     background-color: #f4511e !important;
     background-image: none !important;
+}
+.container{
+
+    background-color: palegoldenrod;
+}
+
+p, h1{
+    text-align: center;
+}
+
+h1{
+    font-size: 48px;
+    font-style: oblique;
+    font-family:'Allan';
 }
